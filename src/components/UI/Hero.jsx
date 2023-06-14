@@ -1,3 +1,4 @@
+
 import React from "react";
 import heroImg from "../../assets/images/hero.svg";
 import CountUp from "react-countup";
@@ -132,3 +133,4 @@ export const Hero = () => {
     </section>
   );
 };
+
